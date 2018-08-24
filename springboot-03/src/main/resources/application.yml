@@ -1,0 +1,18 @@
+server:
+  port: 8081
+
+---
+
+person:
+  name: ren
+  ## Name: ren
+  age: 18
+  birth: 2018/08/22
+  maps: {k1: v1,k2: v2}
+  list:
+    - hi
+    - hello
+  dog:
+    name: rack
+    age: 2
+
