@@ -1,0 +1,19 @@
+
+
+
+server:
+  port: 9090
+
+
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/springboot?useSSL=false
+    username: root
+    password:
+    schema: classpath:organization.sql
+    initialization-mode: always
+
+
+
