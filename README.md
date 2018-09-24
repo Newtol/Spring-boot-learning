@@ -5,6 +5,7 @@
 ## [第四节：SpringBoot 简明教程之项目属性配置（三）：配置优先级及多环境切换](http://blog.csdn.net/m0_37888031/article/details/82724716)
 
 ## [第五节：Spring Boot简明教程之Web开发](https://blog.csdn.net/m0_37888031/article/details/82749009)
+## [第六节：Spring Boot简明教程之数据访问（一）：JDBC Templet](https://blog.csdn.net/m0_37888031/article/details/82821963)
 
 
 
