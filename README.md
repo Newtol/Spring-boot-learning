@@ -7,5 +7,5 @@
 ## [第五节：Spring Boot简明教程之Web开发](https://blog.csdn.net/m0_37888031/article/details/82749009)
 ## [第六节：Spring Boot简明教程之数据访问（一）：JDBC Templet](https://blog.csdn.net/m0_37888031/article/details/82821963)
 
-
+## [第七节：Spring Boot简明教程之数据访问（二）：JPA](https://blog.csdn.net/m0_37888031/article/details/82871177)
 
