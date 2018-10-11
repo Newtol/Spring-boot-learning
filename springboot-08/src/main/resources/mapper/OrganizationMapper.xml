@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.springboot08.mapper.OrganizationMapper">
+    <select id="getOrganizationById" resultType="com.example.springboot08.bean.Organization">
+        SELECT * FROM organization where id = #{id}
+    </select>
+
+    <insert id="insertOrganization" parameterType="com.example.springboot08.bean.Organization" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO organization(active,company_name) VALUES (#{active},#{companyName})
+    </insert>
+    <delete id="delOrganizationById" parameterType="Integer">
+        DELETE FROM organization where id = #{id}
+    </delete>
+
+</mapper>

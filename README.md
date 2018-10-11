@@ -9,3 +9,5 @@
 
 ## [第七节：Spring Boot简明教程之数据访问（二）：JPA](https://blog.csdn.net/m0_37888031/article/details/82871177)
 
+## [第八节：Spring Boot简明教程之数据访问（三）：MyBatis](https://mp.csdn.net/mdeditor/83017619#)
+
