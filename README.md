@@ -11,3 +11,5 @@
 
 ## [第八节：Spring Boot简明教程之数据访问（三）：MyBatis](https://mp.csdn.net/mdeditor/83017619#)
 
+## [第九节：SpringBoot简明教程之Web视图层（一）：WebJars及静态资源映射规则](https://blog.csdn.net/m0_37888031/article/details/83385712)
+
